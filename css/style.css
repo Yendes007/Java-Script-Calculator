@@ -1,0 +1,12 @@
+body{
+    background-color: forestgreen;
+}
+.bg-image{
+    background-image:url("../Images./images.1.jpg");height: 100vh;
+    filter:blur(2px);
+    -webkit-filter:blur(2px);
+    width:100%;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+}
